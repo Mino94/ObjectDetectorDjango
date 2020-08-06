@@ -2,12 +2,10 @@
 
 딥러닝 활용 Minho 객체인식
 
-<pre>
-<code>
-영상확인
-<iframe width="853" height="480" src="https://www.youtube.com/embed/WCkL0pxpv64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</code>
-</pre>
+<html>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+</html>
+
 *주요기능
 - 실시간 영상 웹서버 전송
 - 받은 영상 얼굴인식
