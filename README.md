@@ -2,9 +2,8 @@
 
 딥러닝 활용 Minho 객체인식
 
-<html>
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-</html>
+영상확인 
+https://www.youtube.com/watch?v=WCkL0pxpv64
 
 *주요기능
 - 실시간 영상 웹서버 전송
