@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=WCkL0pxpv64
 
 *사용기술
 - Framework : Django, Android studio
-- Tesorflow 기반 (Darknet/Darkflow)
-- Linux(Ubunt) ,VS code
+- Tesorflow 기반 (Darknet/Darkflow), Yolov2
+- Linux(Ubunt) , VS code
 - Python, html, css
 - OpenCV
 
